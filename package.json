@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/madder-g/some_repo#readme",
   "dependencies": {
-        "angular-moment": "0.7.0"
+        "angular-moment": "1.3.0"
   }
 }
